@@ -1,0 +1,14 @@
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/bin/Debug/net9.0/TwrCase
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/bin/Debug/net9.0/TwrCase.deps.json
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/bin/Debug/net9.0/TwrCase.runtimeconfig.json
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/bin/Debug/net9.0/TwrCase.dll
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/bin/Debug/net9.0/TwrCase.pdb
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/obj/Debug/net9.0/TwrCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/obj/Debug/net9.0/TwrCase.AssemblyInfoInputs.cache
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/obj/Debug/net9.0/TwrCase.AssemblyInfo.cs
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/obj/Debug/net9.0/TwrCase.csproj.CoreCompileInputs.cache
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/obj/Debug/net9.0/TwrCase.dll
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/obj/Debug/net9.0/refint/TwrCase.dll
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/obj/Debug/net9.0/TwrCase.pdb
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/obj/Debug/net9.0/TwrCase.genruntimeconfig.cache
+/Users/arsalaansuleman/Desktop/Case oppgave/TwrCase/obj/Debug/net9.0/ref/TwrCase.dll
