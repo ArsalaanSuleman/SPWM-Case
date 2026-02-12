@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TwrCase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+322c7a6ca82fb9c0ec5da533cb69d6a0dedf8270")]
 [assembly: System.Reflection.AssemblyProductAttribute("TwrCase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TwrCase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
